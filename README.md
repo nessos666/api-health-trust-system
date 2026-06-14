@@ -305,7 +305,7 @@ This system is running in production for:
 - [TopStepX API Health Monitor](https://github.com/nessos666/topstepx-api-health-monitor) — 9 checks for TopStepX/ProjectX futures trading API
 - [Rithmic API Health Monitor](https://github.com/nessos666/rithmic-api-health-monitor) — 10 checks for Rithmic futures data API
 
-Both use the same Trust Score framework from this repo.
+Both use the same Trust Score framework from this repo — see `examples/topstepx_scanner.py` and `examples/rithmic_scanner.py` for the complete configurations.
 
 ---
 
